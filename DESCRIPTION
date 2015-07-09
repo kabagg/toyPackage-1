@@ -1,0 +1,12 @@
+Package: myFirstPackage
+Type: Package
+Title: Illustrates how to build a package with one function
+Version: 1.0
+Date: 2015-07-01
+Author: Ying Wang
+Maintainer: Ying Wang <ywang31@mdanderson.org>
+Description: Nothing. Really, nothing.
+   Adding a second line keeps code from complaining.
+License: MIT + file LICENSE
+Suggests: knitr
+VignetteBuilder: knitr
