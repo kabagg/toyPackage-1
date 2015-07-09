@@ -1,2 +1,7 @@
-inst/doc
-.Rproj.user
+.RData
+Rbuildignore
+Rhistory
+.Rbuildignore
+.Rproj.user/*
+.Rhistory
+*.Rproj
